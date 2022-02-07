@@ -1,7 +1,7 @@
 # Principal-Component-Analysis-Unsupervised
 
 # Original X has 30 features
-![1-Logo](Images/PCA-cancer-original.png)
+![1-Logo](Images/PCA-cancer-original .png)
 
 # Reduced to 2 components
 ![2-Logo](Images/PCA-cancer.png)
